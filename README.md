@@ -1,5 +1,5 @@
 # KFC Cambodia Website
-**Student Name: [Your Full Name]**
+**Student Name: [Pheav Chhengthai]**
 
 ## Live Demo
 [View on GitHub Pages](https://yourusername.github.io/kfc-cambodia)
