@@ -2,7 +2,7 @@
 **Student Name: Pheav Chhengthai**
 
 ## Live Demo
-[View on GitHub Pages](https://yourusername.github.io/kfc-cambodia)
+[GitHub Pages](https://sys-thai69.github.io/fullstack-kfc-website/html.html)
 
 ## Screenshots
 
