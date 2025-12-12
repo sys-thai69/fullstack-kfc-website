@@ -22,7 +22,7 @@
 
 ## Image Credits
 - KFC Logo: [KFC Cambodia Official](https://kfc.com.kh/)
-- Food Images: KFC promotional materials
+- Food Images: KFC promotional materials in their official website
 
 ## Fonts
 - Franklin Gothic Medium, Arial (System fonts)
@@ -30,6 +30,8 @@
 ## How to Run Locally
 1. Download or clone the project
 2. Open html.html in the browser
+3. Download the extension "live server"
+4. right click html.html file and then click "Open live server"
 
 
 ## Technologies
